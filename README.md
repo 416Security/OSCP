@@ -4,23 +4,23 @@
 ## About Me
 * Follow me on Twitter! **@416Security**
 
-## Course outline
+## Course Outline
 
 ### Resources
 
-## Before you start the course
+## Before Starting the Course
 
 ### Resources
 
-## Getting through the material
+## Getting Through the Material
 
 ### Resources
 
-## Getting through the labs
+## Getting Through the Lab Environment
 
 ### Resources
 
-## Getting through the exam
+## Getting Through the Final Exam
 
 ## Afterthoughts
 
