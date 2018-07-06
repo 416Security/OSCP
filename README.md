@@ -1,17 +1,27 @@
-# OSCP
-Offensive Security Certified Professional (OSCP) Certification Review
+# Offensive Security Certified Professional (OSCP) Certification Review
+* thing
 
-# About me
-Follow me on Twitter! @416Security
+## About Me
+* Follow me on Twitter! **@416Security**
 
-# Course outline
+## Course outline
 
-# Before you start the course
+### Resources
 
-# Getting through the material
+## Before you start the course
 
-# Getting through the labs
+### Resources
 
-# Getting through the exam
+## Getting through the material
 
-# Afterthoughts
+### Resources
+
+## Getting through the labs
+
+### Resources
+
+## Getting through the exam
+
+## Afterthoughts
+
+### Resources
