@@ -1,4 +1,4 @@
-# Offensive Security Certified Professional (OSCP) Certification Review
+# Offensive Security Certified Professional (OSCP) Certification PWK Course and Exam Review
 * thing
 
 ## About Me
