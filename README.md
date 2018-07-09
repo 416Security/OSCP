@@ -90,7 +90,8 @@ Even if you have all the notes you want to have it formatted nicely and ensure i
 When it came to the exam, I had learned my lesson and documented as I went but even this took a few hours longer than I'd like.
 
 For note taking I used the popular CherryTree, each individual system had the following template which can be found below as well: 
-**1. Enumeration**
+
+1. Enumeration
    - TCP
    - UDP
    - Web Services
@@ -103,8 +104,8 @@ For note taking I used the popular CherryTree, each individual system had the fo
      - SNMP
      - DB
      - Other
-**2. Exploitation**
-**3. Post Exploitation**
+2. Exploitation
+3. Post Exploitation
    - Script Results
    - Host Information
    - File System
@@ -112,13 +113,13 @@ For note taking I used the popular CherryTree, each individual system had the fo
    - User & Groups
    - Network
    - Scheduled Jobs
-**4. Priv Escalation**
-**5. Goodies**
+4. Priv Escalation
+5. Goodies
    - Hashes
    - Passwords
    - Proof
-**6. Software Versions**
-**7. Log Book**
+6. Software Versions
+7. Log Book
 
 Below is a list of links that helped me immensely during going through the labs:
 
