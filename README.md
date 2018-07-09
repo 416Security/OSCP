@@ -155,7 +155,7 @@ You might find this a lot in the labs. From my understanding it isn't part of th
 
 ## Getting Through the Final Exam
 
-So the another big day finally came.  In my 4 day downtime I had spun up a Windows 7 machine to practice some Buffer Overflow exercises on and warmed up on a few Vulnerable VM's from Vulnhub which I tore through in succession.
+So the another big day finally came.  In my 4 day downtime I had spun up a Windows 7 machine to practice some Buffer Overflow exercises on and warmed up on a few Vulnerable VM's from Vulnhub which I tore through in succession.  It was quite the feeling when I came to realization that 90-days ago I had to refer to walkthroughs for these machines and now was able to root them with relative ease.
 
 I went grocery shopping the night before, made sure I had a good nights rest, and everything I'd need nearby. I got up at 9:00AM and geared up to start the Exam at 10:00AM.  Right on schedule an email from Offenseive Security arrived in my inbox and off I went.  Like many writeup's I've read, I too started on the Buffer Overflow box which kept freezing for some reason, but I was able to work through it.  While working on this, I was enumerating the other systems in the background.  I read somewhere a piece of advice for this exam, that if you're only doing one thing at a time - you're doing it wrong.  I made the most of my time but multitasking where I could.
 
