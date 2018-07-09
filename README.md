@@ -7,7 +7,7 @@ The Offensive Security Certified Professional (OSCP) is the companion certificat
 They were absolutely right, it definitely was a challenge.  I can't say I've taken a course or program that has pushed me as hard as this course did over the 90 days but in the end I can see the value in learning this way and learned an incredible amount in such a short amount of time.
 
 ## About Me
-Follow me on Twitter! **@416Security**
+Follow me on Twitter! **@416Security || https://twitter.com/416security**
 
 I've been in the Information Security realm for around 5 years, the first few years focusing on doing consulting, architecture and deployment, the latter few focusing heavily on management, auditing and compliance.  As I got more into the management side of things, I felt my techincal edge which had gotten me so far along in my career starting to slip, which is how I found myself signing up for the OSCP certification program.
 
@@ -90,7 +90,7 @@ Even if you have all the notes you want to have it formatted nicely and ensure i
 When it came to the exam, I had learned my lesson and documented as I went but even this took a few hours longer than I'd like.
 
 For note taking I used the popular CherryTree, each individual system had the following template which can be found below as well: 
-1. Enumeration
+**1. Enumeration**
    - TCP
    - UDP
    - Web Services
@@ -103,8 +103,8 @@ For note taking I used the popular CherryTree, each individual system had the fo
      - SNMP
      - DB
      - Other
-2. Exploitation
-3. Post Exploitation
+**2. Exploitation**
+**3. Post Exploitation**
    - Script Results
    - Host Information
    - File System
@@ -112,13 +112,13 @@ For note taking I used the popular CherryTree, each individual system had the fo
    - User & Groups
    - Network
    - Scheduled Jobs
-4. Priv Escalation
-5. Goodies
+**4. Priv Escalation**
+**5. Goodies**
    - Hashes
    - Passwords
    - Proof
-6. Software Versions
-7. Log Book
+**6. Software Versions**
+**7. Log Book**
 
 Below is a list of links that helped me immensely during going through the labs:
 
@@ -157,14 +157,14 @@ You might find this a lot in the labs. From my understanding it isn't part of th
 
 So the another big day finally came.  In my 4 day downtime I had spun up a Windows 7 machine to practice some Buffer Overflow exercises on and warmed up on a few Vulnerable VM's from Vulnhub which I tore through in succession.
 
-I went grocery shopping the night before, made sure I had a good nights rest, everything I'd need nearby got up at 9:00AM and geared up to start the Exam at 10:00AM.  Right on schedule an email from Offenseive Security arrived in my inbox and off I went.  Like many writeup's I've read, I too started on the Buffer Overflow box which kept freezing for some reason, but I was able to work through it.  While working on this, I was enumerating the other systems in the background.  I read somewhere a piece of advice for this exam, that if you're only doing one thing at a time - you're doing it wrong.  I made the most of my time but multitasking where I could.
+I went grocery shopping the night before, made sure I had a good nights rest, and everything I'd need nearby. I got up at 9:00AM and geared up to start the Exam at 10:00AM.  Right on schedule an email from Offenseive Security arrived in my inbox and off I went.  Like many writeup's I've read, I too started on the Buffer Overflow box which kept freezing for some reason, but I was able to work through it.  While working on this, I was enumerating the other systems in the background.  I read somewhere a piece of advice for this exam, that if you're only doing one thing at a time - you're doing it wrong.  I made the most of my time but multitasking where I could.
 
 Without going into much detail, my timeline went as follows: 
 
-90 minutes - 25 points.
-3 hours - 35 points.
-4.5 hours - 55 points.
-7 hours - 75 points.
+- 90 minutes - 25 points.
+- 3 hours - 35 points.
+- 4.5 hours - 55 points.
+- 7 hours - 75 points.
 
 After 7 hours I was able to collect enough points to cross that 70 point threshold.  I spent the next 8 hours prodding the last machine but could not find a way in.  I was really burnt out at this point, perhaps the excitement, perhaps the lack of well timed breaks - I tried to break every 2 hours for 10 minutes or so.  Either way, I didn't see a way in that night to the last machine so I started going through the rest of the machines I'd compromised and made sure all my documentation was on point.  I'd hate to fail this thing for missing a step somewhere or having poor documentation so I used up the VPN time to gather everything I'd need.
 
@@ -179,4 +179,4 @@ Around 30 hours later, this arrived:
 
 ### Resources
 
-Any questions or concerns, drop me a line on Twitter! **@416Security**
+Any questions or concerns, drop me a line on Twitter! **https://twitter.com/416security**
