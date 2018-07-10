@@ -60,7 +60,7 @@ I feel a lot of people may just skim this material and want to jump right into t
 So you've gotten through the basic excercises, great!  Now to put those skills to the test.  I can tell you that in my 90-days I managed to get admin/root on every single box in all the lab networks.  I cannot stress this enough, you **do not want to underestimate** how much time is required to really go far in the labs.  A few notes you'll want to keep in mind when it comes to the labs:
 
 * Start with the low-hanging fruit.
-* Do proper and thorough enumeration of system services, if your enumeration is wrong or incomplete you will likely was **a lot** of time doing things that won't work.
+* Do proper and thorough enumeration of system services, if your enumeration is wrong or incomplete you will likely waste **a lot** of time doing things that won't work.
 * Do a proper post-enumeration on compromised machines, password re-use does exist and sometimes is the dependancy you'll need to access another machine.
 * Document everything, exploit attempts, failed attempts, passwords recovered, who the machine talks to etc.
 * Dual-homed machines **simplify** things greatly when it comes to accessing other networks.
